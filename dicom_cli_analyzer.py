@@ -52,7 +52,7 @@ def list_file_paths_by_series(path_to_directory):
             print(f"  {file}", file=sys.stderr)
 
 
-# Fulfilling requirement 1.
+# main function
 def main():
     # initialise variables
     command_to_perform = ""
