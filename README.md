@@ -1,5 +1,5 @@
 # dicom-cli-analyzer
-Python CLI tool for analysing DICOM files
+Python CLI tool for analysing DICOM (Digital Imaging and Communications in Medicine) files
 
 The tool takes as input two parameters: 1) action to perform and 2) full path to a folder containing DICOM files both provided as strings.
 In this implementation there are two functions to choose from: 1) extract_study_identifiers_from_directory and 2) list_file_paths_by_series
